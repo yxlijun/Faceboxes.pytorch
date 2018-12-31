@@ -3,7 +3,7 @@
 
 
 ### Description
-I train faceboxes with pytorch which approachs the [official code](https://github.com/sfzhang15/FaceBoxes),the final model can be downloaded in [faceboxes.pytorch](https://pan.baidu.com/s/1dsd9FY5JjO0hvx2zsSMStQ) the ap in AFW,PASCAL_FACE and FDDB as following:
+I train faceboxes with pytorch which approachs the [official code](https://github.com/sfzhang15/FaceBoxes),the final model can be downloaded in [faceboxes.pytorch](https://pan.baidu.com/s/1dsd9FY5JjO0hvx2zsSMStQ), the ap in AFW,PASCAL_FACE and FDDB as following:
 
 | 	AFW     |   PASCAL	|   FDDB   |
 | --------- |-----------| ---------|
