@@ -62,7 +62,7 @@ def detect(net, img_path, thresh):
     detections = y.data
 
     scale = torch.Tensor([width, height, width, height])
-
+    img = cv2.imread(img_path, cv2.IMREAD_COLOR)
     t3 = time.time()
     for i in range(detections.size(1)):
         for j in range(detections.size(2)):
