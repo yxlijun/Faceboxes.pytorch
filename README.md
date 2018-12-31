@@ -3,7 +3,7 @@
 
 
 ### Description
-I train faceboxes with pytorch which approachs the [official code](https://github.com/sfzhang15/FaceBoxes),the ap in AFW,PASCAL_FACE and FDDB as following:
+I train faceboxes with pytorch which approachs the [official code](https://github.com/sfzhang15/FaceBoxes),the final model can be downloaded in [faceboxes.pytorch](https://pan.baidu.com/s/1dsd9FY5JjO0hvx2zsSMStQ), the ap in AFW,PASCAL_FACE and FDDB as following:
 
 | 	AFW     |   PASCAL	|   FDDB   |
 | --------- |-----------| ---------|
@@ -46,8 +46,8 @@ python demo.py
 
 ### Result
 <div align="center">
-<img src="https://github.com/yxlijun/DSFD.pytorch/blob/master/tmp/0_Parade_marchingband_1_488.jpg" height="300px" alt="demo" >
-<img src="https://github.com/yxlijun/DSFD.pytorch/blob/master/tmp/0_Parade_marchingband_1_20.jpg" height="300px" alt="demo" >
+<img src="https://github.com/yxlijun/faceboxes.pytorch/blob/master/tmp/test2.jpg" height="300px" alt="demo" >
+<img src="https://github.com/yxlijun/faceboxes.pytorch/blob/master/tmp/test.jpg" height="300px" alt="demo" >
 </div>
 
 
