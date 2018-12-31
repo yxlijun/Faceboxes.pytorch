@@ -46,8 +46,8 @@ python demo.py
 
 ### Result
 <div align="center">
-<img src="https://github.com/yxlijun/faceboxes.pytorch/blob/master/tmp/test2.jpg" height="300px" alt="demo" >
-<img src="https://github.com/yxlijun/faceboxes.pytorch/blob/master/tmp/test.jpg" height="300px" alt="demo" >
+<img src="https://github.com/yxlijun/faceboxes.pytorch/blob/master/tmp/test2.jpg" height="200px" alt="demo" >
+<img src="https://github.com/yxlijun/faceboxes.pytorch/blob/master/tmp/test.jpg" height="200px" alt="demo" >
 </div>
 
 
